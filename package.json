@@ -1,0 +1,11 @@
+{
+  "name": "my-course-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My first web app for the course.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "echo \"No build step needed — your site is ready to serve!\""
+  }
+}

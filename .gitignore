@@ -1,0 +1,7 @@
+# Dependencies (this project has none, but this is a good habit).
+node_modules/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
